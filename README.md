@@ -7,4 +7,4 @@ There is a Jupyter notebook which when executed should produce a video in which 
 [Jupyter Notebook](https://github.com/adarshkashyap15/Basic-Particle-simulator/blob/main/output_movie.mp4)
 
 ## Result
-The output of this code will be a video. It can be directly viewed using the link [Video Link](https://github.com/adarshkashyap15/Basic-Particle-simulator/blob/main/output_movie.mp4).
+The output of this code will be a video. It can be directly viewed using the link [Video Link](https://github.com/adarshkashyap15/Basic-Particle-simulator/blob/main/particle_simulator.ipynb).
